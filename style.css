@@ -1,0 +1,16 @@
+.gradient {
+    background: rgb(124,132,148);
+    background: linear-gradient(90deg, rgba(124,132,148,1) 0%, rgba(103,113,119,1) 50%, rgba(0,22,35,1) 100%);
+}
+
+html, body {
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Ramaraja', serif;
+}
+
+.page-header {
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: #fff;
+}
