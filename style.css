@@ -14,3 +14,19 @@ html, body {
     font-size: 1.25rem;
     color: #fff;
 }
+
+.feature {
+    color: #fff;
+
+}
+
+.feature ul {
+    padding-left: 2rem;
+    list-style-type: none;
+}
+
+
+.feature ul li {
+    padding-left: 2rem;
+    background-image: 
+}
