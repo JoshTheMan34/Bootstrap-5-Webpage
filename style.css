@@ -30,7 +30,7 @@ html, body {
     padding-left: 2rem;
     background-image:url(img/check.svg);
     background-repeat: no-repeat;
-    line-height: 1.5rem;
+    line-height: 1.7rem;
     margin-bottom: 1rem;
 }
 
@@ -44,4 +44,44 @@ html, body {
     display: inline-flex;
     align-items: center;
     justify-content: center;
+}
+
+
+.gallery {
+    background-color: #f7f0e5;
+    color: #78a8c5;
+}
+
+
+.gallery img{
+    border-radius: 5%;
+    height: 500px;
+    width: 500px;
+    background-color: #121e2f;
+}
+
+
+#crosscountrypose {
+    width: 700px;
+}
+
+
+.service {
+    color: rgb(255, 255, 255);
+}
+
+
+footer {
+    color: #fff;
+    font-size: 1rem;
+    margin: 0;
+    margin-top: 7rem;
+    padding: 1rem;
+}
+
+
+
+a {
+    color: #fff;
+    text-decoration: none;
 }
